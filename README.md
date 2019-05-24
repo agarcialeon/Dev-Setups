@@ -66,6 +66,14 @@ This list contains a collection of resources that I have discovered and I try to
 
 #### Extensions
 
+##### XAML
+
+* [XAML Styler](https://github.com/Xavalon/XamlStyler "") - Visual Studio extension to help format your XAML source code.
+* [Mvvm Tools](https://github.com/cbordeman/Mvvm-Tools "") - A Visual Studio extension to help move between view/viewmodel and other MVVM XAML tasks, for any project type.
+* [Kill WPF Designer](https://github.com/JohanLarsson/KillWpfDesigner "") - A Visual Studio extension for killing the Wpf designer processes.
+
+
+
 ##### Visual Studio
 
 ##### Visual Studio Code
